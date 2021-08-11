@@ -1,7 +1,17 @@
 ### Hi there 👋 I'm José Luis Tello.
 
-❤️ This is a repository where I keep the things I've learned about Python ❤️
+❤️ This is a repository where I keep my projects with Python ❤️
 ---
+
+💡 **Projects**
+
+**Finance**
+
+- ![Financial Api](https://github.com/joseluistello/Python-Projects/tree/main/Financial_API)
+
+##Web application and machine learning with scikit learn and Flask**
+
+- ![Machine Learning](https://github.com/joseluistello/Python-Projects/tree/main/ML-WebApp-Flask)
 
 ➡️ **Connect with me:**
 
